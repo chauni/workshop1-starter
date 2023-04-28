@@ -1,0 +1,16 @@
+.main-container {
+  margin-top: 2rem;
+}
+
+.main-container > h1 {
+  margin: 2rem 0;
+}
+
+.loan-calculator--outputs {
+  font-size: 2rem;
+}
+
+#monthlyPayment {
+  display: block;
+  font-size: 4rem;
+}
