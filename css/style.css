@@ -14,3 +14,7 @@
   display: block;
   font-size: 4rem;
 }
+
+a, h2 {
+  color: white;
+}
